@@ -1,0 +1,1 @@
+INSERT INTO "public"."bookings" ("id", "user_id", "schedule_id", "status", "created_at") VALUES (6, 'f2b6f4fd-6bf6-491a-8868-78a876624670', 1, 'confirmed', '2026-04-07 08:31:21.480028');
